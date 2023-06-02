@@ -60,7 +60,7 @@
                             <h2 class="font-bold text-3xl">Judul : Mapada Ceremony</h2>
                             <h2 class="font-bold text-xl">Nama Lukisan : Mapada Ceremony</h2>
                             <h2 class="font-bold text-xl">Nama Pelukis : Mangku Nyoman Lesug</h2>
-                            <h2 class="font-bold text-xl">Kode Lukisan : BAT 654</h2>
+                            <h2 class="font-bold text-xl">Kode Lukisan : MC939</h2>
                             <h2 class="font-bold text-xl">Ukuran : 71x109 cm</h2>
                             <h2 class="font-bold text-xl">Material : acrylic on canvas</h2>
                             <h2 class="font-bold text-xl">Tahun dibuat : 1939</h2>
@@ -100,13 +100,13 @@
                         <img class="max-w-[400px]  " src="{{ asset('photos/2.jpg') }}" alt="">
 
                         <div class="space-y-2">
-                            <h2 class="font-bold text-3xl">Judul : Wedding Ceremony</h2>
-                            <h2 class="font-bold text-xl">Nama Lukisan :  Wedding Ceremony</h2>
-                            <h2 class="font-bold text-xl">Nama Pelukis : Mangku Daging</h2>
-                            <h2 class="font-bold text-xl">Kode Lukisan : </h2>
-                            <h2 class="font-bold text-xl">Ukuran : 70x80 cm</h2>
+                            <h2 class="font-bold text-3xl">Judul : Green Life</h2>
+                            <h2 class="font-bold text-xl">Nama Lukisan : Green Life</h2>
+                            <h2 class="font-bold text-xl">Nama Pelukis : Ida Bagus Made Nendra</h2>
+                            <h2 class="font-bold text-xl">Kode Lukisan : GL998</h2>
+                            <h2 class="font-bold text-xl">Ukuran : 93x139 cm</h2>
                             <h2 class="font-bold text-xl">Material : Canvas</h2>
-                            <h2 class="font-bold text-xl">Tahun dibuat : 2007</h2>
+                            <h2 class="font-bold text-xl">Tahun dibuat : 1998</h2>
                             <a href="/detail-lukisan">Detail</a>
                         </div>
                     </div>
@@ -148,7 +148,7 @@
                             <h2 class="font-bold text-3xl">Judul : Wedding Ceremony</h2>
                             <h2 class="font-bold text-xl">Nama Lukisan :  Wedding Ceremony</h2>
                             <h2 class="font-bold text-xl">Nama Pelukis : Mangku Daging</h2>
-                            <h2 class="font-bold text-xl">Kode Lukisan : </h2>
+                            <h2 class="font-bold text-xl">Kode Lukisan : WC007</h2>
                             <h2 class="font-bold text-xl">Ukuran : 70x80 cm</h2>
                             <h2 class="font-bold text-xl">Material : Canvas</h2>
                             <h2 class="font-bold text-xl">Tahun dibuat : 2007</h2>
@@ -192,7 +192,7 @@
                             <h2 class="font-bold text-3xl">Judul : Rice Harvest</h2>
                             <h2 class="font-bold text-xl">Nama Lukisan : Rice Harvest</h2>
                             <h2 class="font-bold text-xl">Nama Pelukis : I Wayan Gandera</h2>
-                            <h2 class="font-bold text-xl">Kode Lukisan : </h2>
+                            <h2 class="font-bold text-xl">Kode Lukisan : RH006</h2>
                             <h2 class="font-bold text-xl">Ukuran : 70x100 cm</h2>
                             <h2 class="font-bold text-xl">Material : Canvas</h2>
                             <h2 class="font-bold text-xl">Tahun dibuat : 2006</h2>
@@ -238,7 +238,7 @@
                             <h2 class="font-bold text-3xl">Judul : Rajapala</h2>
                             <h2 class="font-bold text-xl">Nama Lukisan : Rajapala</h2>
                             <h2 class="font-bold text-xl">Nama Pelukis : Mangku Sayang</h2>
-                            <h2 class="font-bold text-xl">Kode Lukisan : </h2>
+                            <h2 class="font-bold text-xl">Kode Lukisan : R007</h2>
                             <h2 class="font-bold text-xl">Ukuran : 70x90 cm</h2>
                             <h2 class="font-bold text-xl">Material : Canvas</h2>
                             <h2 class="font-bold text-xl">Tahun dibuat : 2007</h2>
@@ -283,7 +283,7 @@
                             <h2 class="font-bold text-3xl">Judul : Ramayana Epic</h2>
                             <h2 class="font-bold text-xl">Nama Lukisan : Ramayana Epic</h2>
                             <h2 class="font-bold text-xl">Nama Pelukis : I Wayan Tutur</h2>
-                            <h2 class="font-bold text-xl">Kode Lukisan : </h2>
+                            <h2 class="font-bold text-xl">Kode Lukisan : RE006</h2>
                             <h2 class="font-bold text-xl">Ukuran : 70x10 cm</h2>
                             <h2 class="font-bold text-xl">Material : Canvas</h2>
                             <h2 class="font-bold text-xl">Tahun dibuat : 2006</h2>
@@ -325,7 +325,7 @@
                             <h2 class="font-bold text-3xl">Judul : Balinese Life</h2>
                             <h2 class="font-bold text-xl">Nama Lukisan : Balinese Life</h2>
                             <h2 class="font-bold text-xl">Nama Pelukis : I Ketut Soki</h2>
-                            <h2 class="font-bold text-xl">Kode Lukisan : </h2>
+                            <h2 class="font-bold text-xl">Kode Lukisan : BL995</h2>
                             <h2 class="font-bold text-xl">Ukuran : 130x190 cm</h2>
                             <h2 class="font-bold text-xl">Material : Canvas</h2>
                             <h2 class="font-bold text-xl">Tahun dibuat : 1995</h2>
@@ -370,7 +370,7 @@
                             <h2 class="font-bold text-3xl">Judul : A Fisherman's Life</h2>
                             <h2 class="font-bold text-xl">Nama Lukisan :  A Fisherman's Life</h2>
                             <h2 class="font-bold text-xl">Nama Pelukis : I Nyoman Ridi</h2>
-                            <h2 class="font-bold text-xl">Kode Lukisan : </h2>
+                            <h2 class="font-bold text-xl">Kode Lukisan : FL007</h2>
                             <h2 class="font-bold text-xl">Ukuran : 80x90 cm</h2>
                             <h2 class="font-bold text-xl">Material : Canvas</h2>
                             <h2 class="font-bold text-xl">Tahun dibuat : 2007</h2>
@@ -416,7 +416,7 @@
                             <h2 class="font-bold text-3xl">Judul : Escape</h2>
                             <h2 class="font-bold text-xl">Nama Lukisan : Escape</h2>
                             <h2 class="font-bold text-xl">Nama Pelukis : Nyoman Sarta</h2>
-                            <h2 class="font-bold text-xl">Kode Lukisan : </h2>
+                            <h2 class="font-bold text-xl">Kode Lukisan : E007</h2>
                             <h2 class="font-bold text-xl">Ukuran : 116x150 cm</h2>
                             <h2 class="font-bold text-xl">Material : Canvas</h2>
                             <h2 class="font-bold text-xl">Tahun dibuat : 2007</h2>
@@ -459,7 +459,7 @@
                             <h2 class="font-bold text-3xl">Judul : Gabyug Dance</h2>
                             <h2 class="font-bold text-xl">Nama Lukisan : Gabyug Dance</h2>
                             <h2 class="font-bold text-xl">Nama Pelukis : I Wayan Naya</h2>
-                            <h2 class="font-bold text-xl">Kode Lukisan : </h2>
+                            <h2 class="font-bold text-xl">Kode Lukisan : GD007</h2>
                             <h2 class="font-bold text-xl">Ukuran : 90x110 cm</h2>
                             <h2 class="font-bold text-xl">Material : Canvas</h2>
                             <h2 class="font-bold text-xl">Tahun dibuat : 2007</h2>
@@ -502,7 +502,7 @@
                             <h2 class="font-bold text-3xl">Judul : Heppiness</h2>
                             <h2 class="font-bold text-xl">Nama Lukisan : Heppiness</h2>
                             <h2 class="font-bold text-xl">Nama Pelukis : I Made Artawa</h2>
-                            <h2 class="font-bold text-xl">Kode Lukisan : </h2>
+                            <h2 class="font-bold text-xl">Kode Lukisan : H007</h2>
                             <h2 class="font-bold text-xl">Ukuran : 60x90 cm</h2>
                             <h2 class="font-bold text-xl">Material : Canvas</h2>
                             <h2 class="font-bold text-xl">Tahun dibuat : 2007</h2>
@@ -530,7 +530,7 @@
                         dan bentuk. "Happiness" mengajak penonton untuk merenungkan tentang arti kebahagiaan dalam kehidupan dan menginspirasi kita untuk mengejar kebahagiaan sejati. Lukisan ini 
                         membawa keceriaan dan kegembiraan kepada siapa pun yang melihatnya, dan memperlihatkan kekuatan seni untuk mengangkat semangat dan memancarkan keindahan dari dalam diri kita.</p>
                 </div>
-                1
+                
             </div>
         </div>
         <div class="bg-gray-100 w-full h-auto  ">
@@ -545,7 +545,7 @@
                             <h2 class="font-bold text-3xl">Judul : Village Scene</h2>
                             <h2 class="font-bold text-xl">Nama Lukisan : Village Scene</h2>
                             <h2 class="font-bold text-xl">Nama Pelukis : I Gusti Agung Kepakisan</h2>
-                            <h2 class="font-bold text-xl">Kode Lukisan : </h2>
+                            <h2 class="font-bold text-xl">Kode Lukisan : VS007</h2>
                             <h2 class="font-bold text-xl">Ukuran : 100x150 cm</h2>
                             <h2 class="font-bold text-xl">Material : Canvas</h2>
                             <h2 class="font-bold text-xl">Tahun dibuat : 2007</h2>
@@ -572,7 +572,7 @@
                         kehidupan desa kepada penonton, mengingatkan kita akan kearifan yang terkandung dalam keseimbangan dengan lingkungan alam sekitar kita. Lukisan ini mengajak kita untuk merenungkan tentang keindahan yang ada 
                         di sekitar kita dan menghargai kehidupan sederhana namun penuh makna di pedesaan.</p>
                 </div>
-                1
+                
             </div>
         </div>
         <div class="bg-gray-100 w-full h-auto  ">
@@ -587,7 +587,7 @@
                             <h2 class="font-bold text-3xl">Judul : Balinese Market</h2>
                             <h2 class="font-bold text-xl">Nama Lukisan : Balinese Market</h2>
                             <h2 class="font-bold text-xl">Nama Pelukis : I Wayan Lantur</h2>
-                            <h2 class="font-bold text-xl">Kode Lukisan : </h2>
+                            <h2 class="font-bold text-xl">Kode Lukisan : BM007</h2>
                             <h2 class="font-bold text-xl">Ukuran : 97x148 cm</h2>
                             <h2 class="font-bold text-xl">Material : Canvas</h2>
                             <h2 class="font-bold text-xl">Tahun dibuat : 2007</h2>
@@ -614,7 +614,7 @@
                         Bali. "Balinese Market" mengajak penonton untuk mengenang dan menghargai keberagaman budaya serta kegiatan ekonomi yang berakar dalam masyarakat Bali. Lukisan ini menjadi jendela bagi siapa pun yang 
                         melihatnya untuk memahami kehidupan sehari-hari dan keberagaman budaya yang ada di pasar tradisional Bali.</p>
                 </div>
-                1
+                
             </div>
         </div>
         <div class="bg-gray-100 w-full h-auto  ">
@@ -629,7 +629,7 @@
                             <h2 class="font-bold text-3xl">Judul : Bharatayudha Legend</h2>
                             <h2 class="font-bold text-xl">Nama Lukisan : Bharatayudha Legend</h2>
                             <h2 class="font-bold text-xl">Nama Pelukis : I Ketut Roji</h2>
-                            <h2 class="font-bold text-xl">Kode Lukisan : </h2>
+                            <h2 class="font-bold text-xl">Kode Lukisan : BL007</h2>
                             <h2 class="font-bold text-xl">Ukuran : 82x106 cm</h2>
                             <h2 class="font-bold text-xl">Material : Canvas</h2>
                             <h2 class="font-bold text-xl">Tahun dibuat : 2007</h2>
@@ -657,7 +657,7 @@
                         "Bharatayudha Legend" mempesona penonton dengan keindahan visualnya yang memukau dan menghidupkan kembali kisah-kisah yang penuh makna dari zaman kuno. Lukisan ini memperkaya 
                         pemahaman kita tentang kebudayaan dan sejarah kita sendiri, sambil memberikan pengalaman estetik yang mengesankan.</p>
                 </div>
-                1
+                
             </div>
         </div>
         <div class="bg-gray-100 w-full h-auto  ">
@@ -672,7 +672,7 @@
                             <h2 class="font-bold text-3xl">Judul : Temple Activites</h2>
                             <h2 class="font-bold text-xl">Nama Lukisan : Temple Activites</h2>
                             <h2 class="font-bold text-xl">Nama Pelukis : I Ketut Purna</h2>
-                            <h2 class="font-bold text-xl">Kode Lukisan : </h2>
+                            <h2 class="font-bold text-xl">Kode Lukisan : TA007</h2>
                             <h2 class="font-bold text-xl">Ukuran : 96x145 cm</h2>
                             <h2 class="font-bold text-xl">Material : Canvas</h2>
                             <h2 class="font-bold text-xl">Tahun dibuat : 2007</h2>
@@ -717,7 +717,7 @@
                             <h2 class="font-bold text-3xl">Judul : Rice Harvest</h2>
                             <h2 class="font-bold text-xl">Nama Lukisan : Rice Harvest</h2>
                             <h2 class="font-bold text-xl">Nama Pelukis : I Made Suta</h2>
-                            <h2 class="font-bold text-xl">Kode Lukisan : </h2>
+                            <h2 class="font-bold text-xl">Kode Lukisan : RH007</h2>
                             <h2 class="font-bold text-xl">Ukuran : 100x150 cm</h2>
                             <h2 class="font-bold text-xl">Material : canvas</h2>
                             <h2 class="font-bold text-xl">Tahun dibuat : 2007</h2>
@@ -761,7 +761,7 @@
                             <h2 class="font-bold text-3xl">Judul : Ramayana Epic</h2>
                             <h2 class="font-bold text-xl">Nama Lukisan : Ramayana Epic</h2>
                             <h2 class="font-bold text-xl">Nama Pelukis : I Wayan Asta</h2>
-                            <h2 class="font-bold text-xl">Kode Lukisan : </h2>
+                            <h2 class="font-bold text-xl">Kode Lukisan : RE007</h2>
                             <h2 class="font-bold text-xl">Ukuran : 70x95 cm</h2>
                             <h2 class="font-bold text-xl">Material : Canvas</h2>
                             <h2 class="font-bold text-xl">Tahun dibuat : 2007</h2>
@@ -805,7 +805,7 @@
                             <h2 class="font-bold text-3xl">Judul : Purification at Sea</h2>
                             <h2 class="font-bold text-xl">Nama Lukisan : Purification at Sea</h2>
                             <h2 class="font-bold text-xl">Nama Pelukis : I Wayan Dolik</h2>
-                            <h2 class="font-bold text-xl">Kode Lukisan : </h2>
+                            <h2 class="font-bold text-xl">Kode Lukisan : PS007</h2>
                             <h2 class="font-bold text-xl">Ukuran : 66x85 cm</h2>
                             <h2 class="font-bold text-xl">Material : Canvas</h2>
                             <h2 class="font-bold text-xl">Tahun dibuat : 2007</h2>
@@ -848,7 +848,7 @@
                             <h2 class="font-bold text-3xl">Judul : Purification Ceremony</h2>
                             <h2 class="font-bold text-xl">Nama Lukisan : Purification Ceremony</h2>
                             <h2 class="font-bold text-xl">Nama Pelukis : I Nyoman Suarta</h2>
-                            <h2 class="font-bold text-xl">Kode Lukisan : </h2>
+                            <h2 class="font-bold text-xl">Kode Lukisan : PC007</h2>
                             <h2 class="font-bold text-xl">Ukuran : 75x105 cm</h2>
                             <h2 class="font-bold text-xl">Material : Canvas</h2>
                             <h2 class="font-bold text-xl">Tahun dibuat : 2007</h2>
@@ -891,7 +891,7 @@
                             <h2 class="font-bold text-3xl">Judul : Tample Ceremony</h2>
                             <h2 class="font-bold text-xl">Nama Lukisan : Tample Ceremony</h2>
                             <h2 class="font-bold text-xl">Nama Pelukis : I Made Jiwa</h2>
-                            <h2 class="font-bold text-xl">Kode Lukisan : </h2>
+                            <h2 class="font-bold text-xl">Kode Lukisan : TC007</h2>
                             <h2 class="font-bold text-xl">Ukuran : 65x90 cm</h2>
                             <h2 class="font-bold text-xl">Material : Canvas</h2>
                             <h2 class="font-bold text-xl">Tahun dibuat : 2007</h2>
@@ -935,7 +935,7 @@
                             <h2 class="font-bold text-3xl">Judul : Recefield Scene</h2>
                             <h2 class="font-bold text-xl">Nama Lukisan : Recefield Scene</h2>
                             <h2 class="font-bold text-xl">Nama Pelukis : I Wayan Sukarta</h2>
-                            <h2 class="font-bold text-xl">Kode Lukisan : </h2>
+                            <h2 class="font-bold text-xl">Kode Lukisan : RS005</h2>
                             <h2 class="font-bold text-xl">Ukuran : 50x120 cm</h2>
                             <h2 class="font-bold text-xl">Material : Canvas</h2>
                             <h2 class="font-bold text-xl">Tahun dibuat : 2005</h2>
@@ -971,7 +971,7 @@
                             <h2 class="font-bold text-3xl">Judul : Saraswati Goddess</h2>
                             <h2 class="font-bold text-xl">Nama Lukisan : Saraswati Goddess</h2>
                             <h2 class="font-bold text-xl">Nama Pelukis : I Ketut Ginarsa </h2>
-                            <h2 class="font-bold text-xl">Kode Lukisan : </h2>
+                            <h2 class="font-bold text-xl">Kode Lukisan : SG005</h2>
                             <h2 class="font-bold text-xl">Ukuran : 130x65 cm</h2>
                             <h2 class="font-bold text-xl">Material : Canvas</h2>
                             <h2 class="font-bold text-xl">Tahun dibuat : 2005</h2>
@@ -1015,7 +1015,7 @@
                             <h2 class="font-bold text-3xl">Judul : Cremation Ceremony</h2>
                             <h2 class="font-bold text-xl">Nama Lukisan : Cremation Ceremony</h2>
                             <h2 class="font-bold text-xl">Nama Pelukis : I Gusti Made Kwandji</h2>
-                            <h2 class="font-bold text-xl">Kode Lukisan : </h2>
+                            <h2 class="font-bold text-xl">Kode Lukisan : CC005</h2>
                             <h2 class="font-bold text-xl">Ukuran : 101x63 cm</h2>
                             <h2 class="font-bold text-xl">Material : Canvas</h2>
                             <h2 class="font-bold text-xl">Tahun dibuat : 2005</h2>
@@ -1060,7 +1060,7 @@
                             <h2 class="font-bold text-3xl">Judul : Green Rajapala</h2>
                             <h2 class="font-bold text-xl">Nama Lukisan : Green Rajapala</h2>
                             <h2 class="font-bold text-xl">Nama Pelukis : I Nyoman Sinom</h2>
-                            <h2 class="font-bold text-xl">Kode Lukisan : </h2>
+                            <h2 class="font-bold text-xl">Kode Lukisan : GR007</h2>
                             <h2 class="font-bold text-xl">Ukuran : 120x64 cm</h2>
                             <h2 class="font-bold text-xl">Material : Canvas</h2>
                             <h2 class="font-bold text-xl">Tahun dibuat : 2007</h2>
@@ -1106,7 +1106,7 @@
                             <h2 class="font-bold text-3xl">Judul : Scenery</h2>
                             <h2 class="font-bold text-xl">Nama Lukisan : Scenery</h2>
                             <h2 class="font-bold text-xl">Nama Pelukis : I Gusti Ngurah KK</h2>
-                            <h2 class="font-bold text-xl">Kode Lukisan : </h2>
+                            <h2 class="font-bold text-xl">Kode Lukisan : S000</h2>
                             <h2 class="font-bold text-xl">Ukuran : 87x48 cm</h2>
                             <h2 class="font-bold text-xl">Material : Canvas</h2>
                             <h2 class="font-bold text-xl">Tahun dibuat : 2000</h2>
@@ -1151,7 +1151,7 @@
                             <h2 class="font-bold text-3xl">Judul : Three Balinese  Dancers</h2>
                             <h2 class="font-bold text-xl">Nama Lukisan : Three Balinese  Dancers</h2>
                             <h2 class="font-bold text-xl">Nama Pelukis : I Ketut Kasta</h2>
-                            <h2 class="font-bold text-xl">Kode Lukisan : </h2>
+                            <h2 class="font-bold text-xl">Kode Lukisan : TBD005</h2>
                             <h2 class="font-bold text-xl">Ukuran : 125x75 cm</h2>
                             <h2 class="font-bold text-xl">Material : Canvas</h2>
                             <h2 class="font-bold text-xl">Tahun dibuat : 2005</h2>
@@ -1193,7 +1193,7 @@
                             <h2 class="font-bold text-3xl">Judul : Lontar Manuscript Reading</h2>
                             <h2 class="font-bold text-xl">Nama Lukisan : Lontar Manuscript Reading</h2>
                             <h2 class="font-bold text-xl">Nama Pelukis : I Made Rasna</h2>
-                            <h2 class="font-bold text-xl">Kode Lukisan : </h2>
+                            <h2 class="font-bold text-xl">Kode Lukisan : LMR007</h2>
                             <h2 class="font-bold text-xl">Ukuran : 84x130 cm</h2>
                             <h2 class="font-bold text-xl">Material : Canvas</h2>
                             <h2 class="font-bold text-xl">Tahun dibuat : 2007</h2>
@@ -1237,7 +1237,7 @@
                             <h2 class="font-bold text-3xl">Judul : Jauk Dancer</h2>
                             <h2 class="font-bold text-xl">Nama Lukisan : Jauk Dancer</h2>
                             <h2 class="font-bold text-xl">Nama Pelukis : I Wayan Djujul</h2>
-                            <h2 class="font-bold text-xl">Kode Lukisan : </h2>
+                            <h2 class="font-bold text-xl">Kode Lukisan : JD007</h2>
                             <h2 class="font-bold text-xl">Ukuran : 60x64 cm</h2>
                             <h2 class="font-bold text-xl">Material : Canvas</h2>
                             <h2 class="font-bold text-xl">Tahun dibuat : 2007</h2>
@@ -1323,8 +1323,7 @@
                 </div>
                 <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
                     <div>
-                        <h2 class="mb-6 text-sm font-semibold uppercase text-white">Resources
-                        </h2>
+                        <h2 class="mb-6 text-sm font-semibold uppercase text-white">Information
                         <ul class=" text-gray-400 font-medium">
                             <li class="mb-4">
                                 <a href="https://flowbite.com/" class="hover:underline">Flowbite</a>
@@ -1335,7 +1334,7 @@
                         </ul>
                     </div>
                     <div>
-                        <h2 class="mb-6 text-sm font-semibold uppercase text-white">Follow us
+                        <h2 class="mb-6 text-sm font-semibold uppercase text-white">Customer Support
                         </h2>
                         <ul class="text-gray-400 font-medium">
                             <li class="mb-4">
@@ -1347,7 +1346,7 @@
                         </ul>
                     </div>
                     <div>
-                        <h2 class="mb-6 text-sm font-semibold  uppercase text-white">Legal</h2>
+                        <h2 class="mb-6 text-sm font-semibold  uppercase text-white">Have a Questions?</h2>
                         <ul class=" text-gray-400 font-medium">
                             <li class="mb-4">
                                 <a href="#" class="hover:underline">Privacy Policy</a>
@@ -1361,9 +1360,7 @@
             </div>
             <hr class="my-6  sm:mx-auto border-gray-700 lg:my-8" />
             <div class="sm:flex sm:items-center sm:justify-between">
-                <span class="text-sm text-gray-500 sm:text-center text-gray-400">© 2023 <a
-                        href="https://flowbite.com/" class="hover:underline">Flowbite™</a>. All Rights Reserved.
-                </span>
+               
                 <div class="flex mt-4 space-x-6 sm:justify-center sm:mt-0">
                     <a href="#" class="text-gray-500 hover:text-gray-900 hover:text-white">
                         <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">

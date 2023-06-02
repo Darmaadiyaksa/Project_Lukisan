@@ -20,6 +20,12 @@ use App\Http\Controllers\TransaksiController;
 //    return view('welcome');
 // });
 Route::get('/', [HomeController::class, 'index'])->name('landing');
+// Route::get('/', function(){
+//     return view('frontpage2.home', [
+//         'title' => 'Home',
+//         'active' => 'Home'
+//     ]);
+// });
 Route::get('/berita', [HomeController::class, 'berita'])->name('berita');
 Route::get('/detail/{id}', [HomeController::class, 'detailPackage'])->name('detail');
 Route::group(['middleware' => 'auth'], function () {

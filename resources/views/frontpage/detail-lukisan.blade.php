@@ -12,7 +12,7 @@
                 <p class="mb-1 text-lg font-normal text-gray-400 lg:text-xl sm:px-1 lg:px-2 ">Nama
                     Pekulis : Nyoman Paul</p>
                 <p class="mb-1 text-lg font-normal text-gray-400 lg:text-xl sm:px-1 lg:px-2 ">Kode
-                    Lukisan : BS 690</p>  
+                    Lukisan : BAT 654</p>  
                 <p class="mb-1 text-lg font-normal text-gray-400 lg:text-xl sm:px-1 lg:px-2 ">Ukuran
                     Lukisan : 71x109 cm</p>
                 <p class="mb-1 text-lg font-normal text-gray-400 lg:text-xl sm:px-1 lg:px-2 ">Material
