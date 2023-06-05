@@ -35,4 +35,8 @@ class HomeController extends Controller
     {
         return view('frontpage.pelelangan');
     }
+    public function contact()
+    {
+        return view('frontpage.contact');
+    }
 }

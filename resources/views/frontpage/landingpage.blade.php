@@ -48,7 +48,7 @@
     <section>
         <div class="bg-gray-100 w-full h-auto  ">
             <div class="bg-white shadow-md rounded-md  mx-3 my-2 ">
-                <div class="flex w-full px-4 justify-between  py-2">
+                <div class="flex w-full lg:flex-row flex-col px-4 justify-between  py-2">
                     <div class=" flex space-x-4">
 
                         <a href="/detail-lukisan">

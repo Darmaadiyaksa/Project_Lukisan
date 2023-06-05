@@ -27,6 +27,7 @@ Route::get('/', [HomeController::class, 'index'])->name('landing');
 //     ]);
 // });
 Route::get('/berita', [HomeController::class, 'berita'])->name('berita');
+Route::get('/contact', [HomeController::class, 'contact'])->name('contact');
 Route::get('/detail/{id}', [HomeController::class, 'detailPackage'])->name('detail');
 Route::group(['middleware' => 'auth'], function () {
     Route::resource('package', PackagesController::class);
